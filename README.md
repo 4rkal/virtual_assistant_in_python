@@ -92,4 +92,5 @@ Powerful virtual assistant in python
  
  Command: any phrase with exit in it
  
- 
+ [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
