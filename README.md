@@ -1,4 +1,4 @@
-# virtual_assistant_in_python
+# Virtual assistant in python
 Powerful virtual assistant in python
 
 # Set up
