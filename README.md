@@ -1,4 +1,7 @@
 # Virtual assistant in python
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/4rkal/virtual_assistant_in_python/graphs/commit-activity)[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
+
+
 Powerful virtual assistant in python
 
 # Set up
