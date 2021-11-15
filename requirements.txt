@@ -1,0 +1,11 @@
+speech_recognition
+pyttsx3
+pywhatkit
+datetime
+wikipedia
+pyjokes
+os
+time
+wget
+howdoi
+googlesearch
